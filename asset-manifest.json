@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/carousel/static/css/main.c6c9c0d6.chunk.css",
-    "main.js": "/carousel/static/js/main.25d547c3.chunk.js",
-    "main.js.map": "/carousel/static/js/main.25d547c3.chunk.js.map",
+    "main.js": "/carousel/static/js/main.ac507986.chunk.js",
+    "main.js.map": "/carousel/static/js/main.ac507986.chunk.js.map",
     "runtime-main.js": "/carousel/static/js/runtime-main.d95774f8.js",
     "runtime-main.js.map": "/carousel/static/js/runtime-main.d95774f8.js.map",
     "static/css/2.6b560088.chunk.css": "/carousel/static/css/2.6b560088.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/1.a8192fda.jpg": "/carousel/static/media/1.a8192fda.jpg",
     "static/media/2.a1ece277.jpg": "/carousel/static/media/2.a1ece277.jpg",
     "static/media/3.bec5049a.jpg": "/carousel/static/media/3.bec5049a.jpg",
+    "static/media/me.b548b78f.jpg": "/carousel/static/media/me.b548b78f.jpg",
     "static/media/peluche.459d2d02.jpg": "/carousel/static/media/peluche.459d2d02.jpg"
   },
   "entrypoints": [
@@ -24,6 +25,6 @@
     "static/css/2.6b560088.chunk.css",
     "static/js/2.1dbeca81.chunk.js",
     "static/css/main.c6c9c0d6.chunk.css",
-    "static/js/main.25d547c3.chunk.js"
+    "static/js/main.ac507986.chunk.js"
   ]
 }
