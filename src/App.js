@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import MyCarousel from './carousel/carousel';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import Footer from './footer/footer';
